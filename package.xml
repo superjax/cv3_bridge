@@ -1,5 +1,5 @@
 <package format="2">
-  <name>cv_bridge</name>
+  <name>cv3_bridge</name>
   <version>1.11.12</version>
   <description>
     This contains CvBridge, which converts between ROS
